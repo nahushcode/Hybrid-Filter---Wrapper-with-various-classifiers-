@@ -1,0 +1,13 @@
+Notes 
+
+ Each datasets folder present in the experiment code contain its orignal based on hybrid based feature selection and Wrapper based feature selection .
+
+Classifier List contain datasets name , classifiers , model and performance metrics used .
+
+Research and analysis contain some notes and images used in the dataset 
+
+
+Latex folder contain all the  latex file 
+
+
+PPT contain information based on my thesis .
